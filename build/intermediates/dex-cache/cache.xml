@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-storage-15.0.0.aar/dbb180074748a0034de79f240aad81a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12614ad0e9f7c5935b9c4a479056358cb3f6fe77">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.0.aar/f9355f1e472cd092b4f6fd8d95135b47/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce55e4bc271694cd4ecce470e412a88b98f26fda">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/4e3d96a021778d9a795c7e462dbebf65/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34f5bdf6595d0e5647e6ff5380bae62c97fe572b">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/fc52d7800e4f3424ce7c7967f081add7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4e4f7beae99e759b9b7093fcdfe13620/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/library-0.0.4.aar/0bf1fd3eac743cf26b7c4ddd05916578/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4830336acc8d39235ec7ce487d7dd66ee0efac11">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.0.aar/781d2333b6ab479941f5525271e53dd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8a10dccac2dc5fc55aacaf0c4a91aab870d14fb">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-15.0.0.aar/e786b308b1280ba77eaac14527055c0c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="000190624a676786e2025fc8393ca4fb0d79dddc">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f3e24b5d71b320380ffbbce5d80d615f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/5a698efec66643c824673c79831cf59b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/635da4524078fd338f6d4653fd7bf2ad/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/f43d7cd97f40e5735d73801b501fdf95/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6b659b5a5850e1bfd6d81393d35ca3b50297239">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1c668e54a748894cf154dd5dad941e50/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.0.aar/2a7a448013806223e693c5bc9461e3c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23f3a1e6b74c6efe5f5547485cab3f508699ff44">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.0.0.aar/a933dfae692fea24d702ccfcdf5a55f7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c07188f722ee6dd9106ef86d8bffb125e9735fb6">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/bdd55943e0dba8501d7bafb58063cca2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d127661c786c056316cda1fe4d4cfb942b2d00c">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.0.aar/72a87897566bb34308ac2bc1893cbbd7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c6558aeae89d52c3ab66e6e855b18ed808986b">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a8ab2c0d8964088ef919b1bb02554cf4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/imagepicker-1.12.0.aar/0a5107c2eccda96b131c05d7fe126090/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150e5f2f70ef9724a25230c415d851c8e3d87703">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.0.aar/d752dc7e36d73b05ca5630755553bdcb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="512011b5884d98d02e8a4c255e64e028eab2d3a7">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2c5042eac6083356d8186dab7e262ccc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/7803838bdb8a5312f7da5fdb02b9e437/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="11318f2ca31a456196e91280c545ed72606172ea">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-15.0.0.aar/4c7107f69733947a4ac2ee9f85d089e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56fb439c0f98b02fc6a0ea19c1b7e2f636d44227">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/aa14fc8d77c17373ec9ddce1f87eb9cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/1548d470c1fbee6fecaecb9c4d642b53/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28393911fbd5429c58a538283a2ec4797d71f5ee">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/526eba5e28a61309fad491193d193fe8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.0.aar/4b40f53132bf9daaf1019943548cc9ab/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d574ecd901b4e58ade2ed58f46438eeff3a09c0">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/5cad3976369d8f9e5f3ff893d3b2ce45/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dac4d691cb4ccec0ea3e0463e58986e0ce6af425">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/83b39288e782b91e9fa4fce80c42520b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/4c8968a313ffba3115551ec742f7272a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/c222bf1645b83e41de34f5e18a6b6018/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49f91d16acc6a0dc76746eba924e8f5fd4acd4fa">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/76feaf452ae4c5f64a2c3baa0454d923/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d585f8385241f012640ee48d8157b39f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-database-15.0.0.aar/ef2ab805d33e09356ab5d04e3e7de0c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="437e6c73e87a17ca95620af01ee87e106a468723">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.0.aar/b88552c4dddd84b98dff701960d1a478/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50fe77ff10df20e52e887c0ab44bad8b9ca1760f">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/32a14e75f0f8c3044f699db63bd3c3c6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58a3043ff0f8d98128c9b2d82d7d579c39a6cdec">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/37bd30cea6152f209966947376d39302/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="849177ecbfe8de97689570a877a0e6b035630bd4">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/e31dedb1e076e16a7d88817dd69058fe/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0165a9fb28c8333504f837916f8b32c1ee38afca">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/d40dea95081f653dcf30cc9d133580d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40027d86a141b990d047cdeef0b25010adc2ea1f">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/2196a9acf1a2eff5bace4edbe1fb1c9e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38d065c5214fa59d69172db23d6dc9f40240a26e">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/ec0458d0d9ccd5978fc20f2dccde5679/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.0.aar/f08bd2f09c7162b841b02a3ad3c3e573/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c672aa660c49cee93f41c2864ce4fe23a3328b46">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.5.0/5c16a9f3c9e4c9b6dbea50374264ef26fb937423/annotations-4.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c16a9f3c9e4c9b6dbea50374264ef26fb937423">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/be8f5eb987beed8f18a06c95bcba688f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a77dd97f559e5fdc641380539d31a71f2b0470c">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.5.0/86950b32ea96cceece316b829cbe47b735892551/disklrucache-4.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86950b32ea96cceece316b829cbe47b735892551">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/4c428bf9be38250238290233178b8f63/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0e9d2e5cf14f7d154c95672b3d37a845f09d57">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a9479fedb570da9564077d2a93a5e623/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/dd3d8c8488c302913a9a272aeff19dd6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e92f73c64f9b7113a11b75a483016ab4ac335d5a">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/93e1c51f39e9d9dd821d8008fdabf16b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39c51fbcdfbe3a81c923cfd1159b27bf28738933">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c05d25b10c797ed31b88dfad35fd9f3b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/mac/Documents/Programming/workspace/LikeEatApplication/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+
+</items>

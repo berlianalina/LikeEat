@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Home">
+        <menu>
+            <item android:title="Beranda"
+                android:id="@+id/nav_beranda"
+                android:icon="@drawable/home"/>
+            <item android:title="Profile"
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_profile"/>
+        </menu>
+    </item>
+
+    <item android:title="Authentication">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/login"
+                android:title="Masuk"
+                android:visible="true"
+                />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout"
+                android:title="Logout"
+                android:visible="true"/>
+        </menu>
+    </item>
+
+</menu>

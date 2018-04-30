@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: fr.tvbarthel.intentshare:library-0.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.4.aar/0bf1fd3eac743cf26b7c4ddd05916578/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.4.aar/0bf1fd3eac743cf26b7c4ddd05916578/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/fr.tvbarthel.intentshare/library/0.0.4/39a2742eb60b3c2a0769a4071c4660b4fc76da91/library-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
