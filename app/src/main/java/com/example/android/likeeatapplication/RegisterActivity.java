@@ -4,6 +4,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
@@ -34,8 +35,11 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
@@ -133,14 +137,40 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
                         if (task.isSuccessful()) {
                             Constant.refUser.child(Constant.mAuth.getUid()).setValue(new User(
                                     Constant.mAuth.getUid(), nama, email, phone, photoUrl.toString(), ttl));
-                            // Sign in success, update UI with the signed-in user's information
-                            pbDialog.dismiss();
-                            Log.d("", "createUserWithEmail:success");
-                            Constant.currentUser = Constant.mAuth.getCurrentUser();
-                            Toast.makeText(RegisterActivity.this, "Berhasil mendaftar, Silahkan login!", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(RegisterActivity.this, LoginActivity.class));
-                            finish();
-                            //updateUI(user);
+
+                            Constant.refUser.addValueEventListener(new ValueEventListener() {
+                                @Override
+                                public void onDataChange(DataSnapshot dataSnapshot) {
+                                    for (final DataSnapshot ds : dataSnapshot.getChildren()) {
+                                        String emails = (String) ds.child("email").getValue();
+                                        String profile_pic = (String) ds.child("profile_pic").getValue();
+                                        String ttl = (String) ds.child("ttl").getValue();
+                                        String phone = (String) ds.child("phone").getValue();
+                                        if (emails.equals(email)) {
+                                            SharedPreferences.Editor editor = getSharedPreferences("userSession", MODE_PRIVATE).edit();
+                                            editor.putString("email", email);
+                                            editor.putString("nama", nama);
+                                            editor.putString("profile_pic", profile_pic);
+                                            editor.putString("ttl", ttl);
+                                            editor.putString("phone", phone);
+                                            editor.apply();
+
+                                            pbDialog.dismiss();
+                                            Log.d("", "createUserWithEmail:success");
+                                            Constant.currentUser = Constant.mAuth.getCurrentUser();
+                                            Toast.makeText(RegisterActivity.this, "Berhasil mendaftar, Silahkan login!", Toast.LENGTH_SHORT).show();
+                                            startActivity(new Intent(RegisterActivity.this, LoginActivity.class));
+                                            finish();
+                                        }
+                                    }
+                                }
+
+                                @Override
+                                public void onCancelled(DatabaseError databaseError) {
+                                    Log.w("", "Failed to read value.", databaseError.toException());
+                                    pbDialog.dismiss();
+                                }
+                            });
                         } else {
                             // If sign in fails, display a message to the user.
                             pbDialog.dismiss();
