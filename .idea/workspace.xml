@@ -11,115 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6717c779-ecef-4f88-ab7f-3ebcc05e0e0a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/CommentAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Config/Constant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/DateFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/DetailPostActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/EditProfileActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/MapsActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Model/Comment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Model/Like.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Model/PlaceInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Model/Rating.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Model/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/PostActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/SearchPost.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Service/MyFirebaseInstanceIDService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Service/MyFirebaseMessagingService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Service/ServiceComment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/SplashScreen.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/mytransition.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_gps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_location.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_magnify.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_gps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_location.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_magnify.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_gps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_location.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_magnify.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_gps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_location.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_magnify.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_comment_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_create.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_date_range_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_edit_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_email_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_return_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_local_dining_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_profile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_smartphone_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_star_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_thumb_up_black_24dp.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/white_border.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail_post.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_edit_profile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_post.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search_post.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_comment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_report.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_comment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_post.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_report.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/profile_menu.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/google-services.json" afterPath="$PROJECT_DIR$/app/google-services.json" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/likeeatapplication/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/likeeatapplication/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/LoginActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/PageAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PageAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/ProfileActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/ProfileActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/RegisterActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/RegisterActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment1.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment1.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment2.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment2.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gradient_profile_background.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gradient_black.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_camera.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_camera.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_gallery.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_gallery.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_manage.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_manage.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_send.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_send.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_slideshow.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_slideshow.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/side_bar_nav.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/side_bar_nav.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_lupa_pass.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_lupa_pass.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tab1.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tab1.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tab2.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tab2.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/android/likeeatapplication/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/android/likeeatapplication/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,11 +48,11 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TabFragment1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="660">
               <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
               <folding />
             </state>
@@ -162,11 +69,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DetailPostActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DetailPostActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/DetailPostActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="252" column="29" lean-forward="false" selection-start-line="252" selection-start-column="29" selection-end-line="252" selection-end-column="29" />
+            <state relative-caret-position="119">
+              <caret line="69" column="43" lean-forward="false" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostAdapter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="93" column="11" lean-forward="true" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+              <folding>
+                <element signature="e#3751#3752#0" expanded="true" />
+                <element signature="e#3789#3790#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="38" column="57" lean-forward="false" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -205,6 +145,8 @@
       <find>Override</find>
       <find>setLikeButton</find>
       <find>databaseLike</find>
+      <find>Share</find>
+      <find>Intent</find>
     </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
@@ -2107,7 +2049,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_tab2.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment2.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Service/MyFirebaseInstanceIDService.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Service/ServiceComment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Service/MyFirebaseMessagingService.java" />
@@ -2115,6 +2056,8 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment1.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/DetailPostActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java" />
       </list>
     </option>
   </component>
@@ -2139,6 +2082,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2156,6 +2101,13 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="likeeatapplication" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LikeEatApplication" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="likeeatapplication" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LikeEatApplication" type="1abcf292:AndroidViewProjectNode" />
@@ -2181,9 +2133,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2191,7 +2141,7 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="sync.plugin.last.upgrade.timestamp" value="1525086560660" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1525179539715" />
     <property name="device.picker.selection" value="Nexus_5X_API_26" />
     <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
     <property name="ExportApk.Flavors" value="" />
@@ -2384,6 +2334,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2392,7 +2343,7 @@
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2430,10 +2381,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        <state relative-caret-position="660">
+          <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/DetailPostActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="252" column="29" lean-forward="false" selection-start-line="252" selection-start-column="29" selection-end-line="252" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2468,23 +2436,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Model/Like.java">
@@ -2516,34 +2484,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab1.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_post.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_post.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="98" column="41" lean-forward="false" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="41" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab2.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment2.java">
@@ -2558,14 +2526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="31" column="62" lean-forward="false" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2600,20 +2560,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="88" column="19" lean-forward="false" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/TabFragment1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="660">
           <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="38" column="57" lean-forward="false" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -2628,9 +2604,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/DetailPostActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="252" column="29" lean-forward="false" selection-start-line="252" selection-start-column="29" selection-end-line="252" selection-end-column="29" />
+        <state relative-caret-position="119">
+          <caret line="69" column="43" lean-forward="false" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/likeeatapplication/Adapter/PostAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="93" column="11" lean-forward="true" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+          <folding>
+            <element signature="e#3751#3752#0" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

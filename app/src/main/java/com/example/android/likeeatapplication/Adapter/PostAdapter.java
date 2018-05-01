@@ -2,6 +2,7 @@ package com.example.android.likeeatapplication.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -14,6 +15,7 @@ import com.bumptech.glide.Glide;
 import com.example.android.likeeatapplication.DetailPostActivity;
 import com.example.android.likeeatapplication.Model.Post;
 import com.example.android.likeeatapplication.R;
+import com.robertsimoes.shareable.Shareable;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -94,10 +96,14 @@ public class PostAdapter extends RecyclerView.Adapter<PostAdapter.ViewHolder>{
         holder.img_share.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                IntentShare.with(context)
-                        .chooserTitle("Select a sharing target : ")
-                        .text(post.getImagePost())
-                        .deliver();
+                Uri uri = Uri.parse(post.getImagePost());
+                Shareable imageShare = new Shareable.Builder(context)
+                        .message(post.getTitlePost()+"\n")
+                        .image(uri)
+                        .url(post.getImagePost())
+                        .socialChannel(Shareable.Builder.ANY)
+                        .build();
+                imageShare.share();
             }
         });
     }
